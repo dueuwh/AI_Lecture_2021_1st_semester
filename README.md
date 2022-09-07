@@ -1,4 +1,10 @@
 # AI_Lecture_2021_1st_semester
 KwangWoon University AI_Lecture assignments
-Colab에서 사본으로 저장하거나, ipynb파일을 다운로드 후 업로드할 때 이름이 다른데도 새로 올린 파일로 대체되는 현상을 발견함.
-assignment6와 assignment9이 그러함.
+
+
+
+main branch에 파일을 직접 업로드하면서,
+
+일부 파일들이 이전 버전으로 돌아가거나,
+
+이미 업로드했었던 몇몇 파일이 새로 업로드한 다른 이름의 파일로 대체되는 현상을 발견함.
