@@ -1,0 +1,2 @@
+# AI_Lecture_2021_1st_semester
+KwangWoon University AI_Lecture assignments
